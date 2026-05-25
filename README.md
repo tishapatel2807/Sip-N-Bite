@@ -38,8 +38,8 @@ php artisan serve
 
 👩‍💻 Developed By
 
-Tisha N. Patel
-MCA Student 
+Tisha N. Patel |
+MCA Student |
 Sarvajanik College of Engineering & Technology, Surat
 
 🔗 GitHub Repository
