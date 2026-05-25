@@ -1,4 +1,4 @@
-🍔 Sip-N-Bite ☕
+🍔 Sip N'Bite ☕
 
 A modern **Cafe Food Ordering & Table Booking System** developed using **Laravel, PHP, MySQL, Tailwind CSS, and JavaScript**.
 
