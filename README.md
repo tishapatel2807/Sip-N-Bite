@@ -21,7 +21,42 @@ The platform enables customers to browse menus, place food orders, reserve table
 - MySQL  
 - Tailwind CSS  
 - JavaScript  
-- Git & GitHub  
+- Git & GitHub
+
+ 📸 Screenshots
+
+ Customer Side:
+
+Home Page
+<img width="1910" height="2216" alt="home" src="https://github.com/user-attachments/assets/95b8a609-565e-41d9-9c32-8badef6ceec1" />
+
+Menu Page
+<img width="1910" height="2139" alt="menu" src="https://github.com/user-attachments/assets/6b3753ee-5e0d-45c8-94c0-27516f26deb6" />
+
+CheckOut page
+<img width="1910" height="1507" alt="checkout" src="https://github.com/user-attachments/assets/9ab43345-4a21-4c27-9fb1-82df22bd1606" />
+
+Track order page
+<img width="1910" height="1382" alt="track order" src="https://github.com/user-attachments/assets/0d79733c-f5ea-42c7-8c6e-48562dfdbae9" />
+
+Admin Side:
+
+Dashboard
+<img width="1910" height="1013" alt="dashboard" src="https://github.com/user-attachments/assets/3cf1f0d6-b9da-435f-9986-f6e854a49730" />
+
+Manage Order
+<img width="1910" height="1270" alt="mnage order" src="https://github.com/user-attachments/assets/dca061a1-86a6-4106-88a0-7a5bc9a2cb57" />
+
+Manage Table
+<img width="1910" height="2241" alt="mange table" src="https://github.com/user-attachments/assets/a5363f8e-1dea-4c6b-b949-c78779d4e7c3" />
+
+Delivery prtner side:
+
+Dashboard
+<img width="1910" height="1157" alt="dashboard" src="https://github.com/user-attachments/assets/6083e7b2-cf88-4b45-9549-b627ea06eabb" />
+
+Delivery partners
+<img width="1910" height="1015" alt="del partner detail" src="https://github.com/user-attachments/assets/51452d9f-4d76-4d8e-a137-dc1699f2ed42" />
 
 ⚙ Installation
 
