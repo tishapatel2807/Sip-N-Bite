@@ -47,6 +47,3 @@ https://github.com/tishapatel2807/Sip-N-Bite
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
-
-## GitHub Repository
-https://github.com/tishapatel2807/Sip-N-Bite
