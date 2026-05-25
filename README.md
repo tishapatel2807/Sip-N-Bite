@@ -30,6 +30,7 @@ git clone https://github.com/tishapatel2807/Sip-N-Bite.git
 cd Sip-N-Bite
 composer install
 npm install
+cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
