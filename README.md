@@ -23,20 +23,6 @@ The project provides a smooth online experience for customers to order food, res
 - JavaScript  
 - Git & GitHub  
 
-## 📸 Project Screenshots
-
-### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
-
-### 📋 Food Menu
-![Menu](screenshots/menu.png)
-
-### 📊 Admin Dashboard
-![Dashboard](screenshots/admin-dashboard.png)
-
-### 🚚 Delivery Dashboard
-![Delivery](screenshots/delivery-dashboard.png)
-
 ⚙ Installation
 
 ```bash
