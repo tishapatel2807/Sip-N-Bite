@@ -2,7 +2,7 @@
 
 A modern **Cafe Food Ordering & Table Booking System** developed using **Laravel, PHP, MySQL, Tailwind CSS, and JavaScript**.
 
-The project provides a smooth online experience for customers to order food, reserve tables, and track orders, while admins can efficiently manage menus, orders, customers, and delivery operations.
+The platform enables customers to browse menus, place food orders, reserve tables, and track deliveries in real time. Administrators can efficiently manage menus, orders, customers, and delivery operations through a centralized dashboard.
 
 ✨ Features
 
