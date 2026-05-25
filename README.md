@@ -28,10 +28,10 @@ The platform enables customers to browse menus, place food orders, reserve table
  Customer Side:
 
 Home Page
-<img width="1910" height="2216" alt="home" src="https://github.com/user-attachments/assets/95b8a609-565e-41d9-9c32-8badef6ceec1" />
+<img width="1910" height="2216" alt="home" src="https://github.com/user-attachments/assets/5337afdb-904e-404b-92e1-4303c4ac2ec6" />
 
 Menu Page
-<img width="1910" height="2139" alt="menu" src="https://github.com/user-attachments/assets/6b3753ee-5e0d-45c8-94c0-27516f26deb6" />
+<img width="1910" height="2139" alt="menu" src="https://github.com/user-attachments/assets/b4d68d31-b213-4ee7-ab50-8c1c227c4417" />
 
 CheckOut page
 <img width="1910" height="1507" alt="checkout" src="https://github.com/user-attachments/assets/9ab43345-4a21-4c27-9fb1-82df22bd1606" />
